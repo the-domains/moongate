@@ -66,10 +66,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=HX9oKq2O_vg&list=PL95D057198E98BB20'
 title: Canjelae - Performs "Umbrella" at "Artist Live Boston"
-datePublished: '2016-07-05T23:49:21.901Z'
-dateModified: '2016-07-05T23:49:21.478Z'
+datePublished: '2016-07-05T23:49:02.632Z'
+dateModified: '2016-07-05T23:48:51.126Z'
+starred: false
 sourcePath: _posts/2016-07-05-canjelae-performs-umbrella-at-artist-live-boston.md
-starred: true
 inFeed: true
 hasPage: false
 inNav: false
