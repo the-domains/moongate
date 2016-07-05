@@ -30,11 +30,11 @@ title: ''
 app_links: []
 isBasedOnUrl: >-
   https://www.facebook.com/royalgazette.bm/photos/a.441868117854.220634.249363077854/10151817455992855/?type=3&theater
-datePublished: '2016-07-05T23:39:38.063Z'
-dateModified: '2016-07-05T23:37:33.895Z'
-starred: false
+datePublished: '2016-07-05T23:42:35.283Z'
+dateModified: '2016-07-05T23:42:34.796Z'
 sourcePath: >-
   _posts/2016-07-05-fun-bermuda-fact-when-jimi-hendrix-then-an-unknown-backing.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
