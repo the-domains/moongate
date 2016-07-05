@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bermudas guide to local independent music ]]></title>
+        <description><![CDATA[Bermudas guide to local independent music ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 05 Jul 2016 23:33:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Opera singer delivers Joy to audiences | The Royal Gazette:Bermuda Arts & Entertainment]]></title>
+            <description><![CDATA[<article><h1>Opera singer delivers Joy to audiences | The Royal Gazette:Bermuda Arts & Entertainment</h1><p>Published Mar 14, 2016 at 8:00 am (Updated Mar 14, 2016 at 7:28 am) The back of singer Joy Barnum's neck often hurts after a performance. It's from laughing and smiling so much. She kicks the stereotype of a sombre, stern opera singer right to the kerb.</p><img src="http://www.royalgazette.com/storyimage/RG/20160314/ISLAND04/160319844/AR/0/AR-160319844.jpg"></article>]]></description>
+            <link>http://www.royalgazette.com/article/20160314/ISLAND04/160319844</link>
+            <guid isPermaLink="false">c5014819-edd2-46ea-babd-c811005c49d5</guid>
+            <pubDate>Tue, 05 Jul 2016 23:33:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
