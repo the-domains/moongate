@@ -1,0 +1,14 @@
+layout_spectrum: 0.5600323311518878
+typography_spectrum: 0.5717195845209062
+color:
+  brandStrength: 0.1991130809765309
+  lightness: 0.1455409312620759
+  saturation: 0.11087328661233187
+  rhythmicContrast: 0.03266106965020299
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 'Moongate '
