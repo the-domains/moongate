@@ -47,10 +47,10 @@ app_links: []
 isBasedOnUrl: >-
   http://americansongwriter.com/2015/08/nova-thing-please-dont-post-yet-needs-help/
 title: 'Heather Nova: Surviving The Hype " American Songwriter'
-datePublished: '2016-07-05T23:39:39.545Z'
-dateModified: '2016-07-05T23:38:01.536Z'
-starred: false
+datePublished: '2016-07-05T23:47:49.395Z'
+dateModified: '2016-07-05T23:47:49.158Z'
 sourcePath: _posts/2016-07-05-heather-nova-surviving-the-hype-american-songwriter.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
