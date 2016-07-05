@@ -21,10 +21,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=XKs2MU4pKdU&feature=youtu.be'
 title: Adele - Hello (Thirdstory Cover)
-datePublished: '2016-07-05T23:33:45.807Z'
-dateModified: '2016-07-05T23:33:36.373Z'
-starred: false
+datePublished: '2016-07-05T23:46:49.242Z'
+dateModified: '2016-07-05T23:46:48.979Z'
 sourcePath: _posts/2016-07-05-adele-hello-thirdstory-cover.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
