@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Bermudas guide to local independent music ]]></title>
         <description><![CDATA[Bermudas guide to local independent music ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/moongate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 23:33:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jul 2016 23:34:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/moongate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adele - Hello (Thirdstory Cover)]]></title>
+            <description><![CDATA[<article><h1>Adele - Hello (Thirdstory Cover)</h1><p>This is our cover of "Hello" by Adele. Listen to our EP: Searching EP on iTunes: http://apple.co/1X7nkJX Searching EP on Spotify: http://spoti.fi/1XxPtKE Subscribe for the latest videos: http://youtube.com/wearethirdstory http://wearethirdstory.com http://instagram.com/wearethirdstory http://facebook.com/wearethirdstory http://twitter.com/wearethirdstory A little bit about the the three of us...we're Thirdstory (Elliott Skinner, Richard Saunders, and Ben Lusher).</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XKs2MU4pKdU&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">ffe8ae97-2ff8-48af-836d-2fa8fe9ace25</guid>
+            <pubDate>Tue, 05 Jul 2016 23:33:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Opera singer delivers Joy to audiences | The Royal Gazette:Bermuda Arts & Entertainment]]></title>
-            <description><![CDATA[<article><h1>Opera singer delivers Joy to audiences | The Royal Gazette:Bermuda Arts & Entertainment</h1><p>Published Mar 14, 2016 at 8:00 am (Updated Mar 14, 2016 at 7:28 am) The back of singer Joy Barnum's neck often hurts after a performance. It's from laughing and smiling so much. She kicks the stereotype of a sombre, stern opera singer right to the kerb.</p><img src="http://www.royalgazette.com/storyimage/RG/20160314/ISLAND04/160319844/AR/0/AR-160319844.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Opera singer delivers Joy to audiences | The Royal Gazette:Bermuda Arts & Entertainment</h1><p>Published Mar 14, 2016 at 8:00 am (Updated Mar 14, 2016 at 7:28 am) The back of singer Joy Barnum's neck often hurts after a performance. It's from laughing and smiling so much. She kicks the stereotype of a sombre, stern opera singer right to the kerb.</p></article>]]></description>
             <link>http://www.royalgazette.com/article/20160314/ISLAND04/160319844</link>
             <guid isPermaLink="false">c5014819-edd2-46ea-babd-c811005c49d5</guid>
             <pubDate>Tue, 05 Jul 2016 23:33:04 GMT</pubDate>
