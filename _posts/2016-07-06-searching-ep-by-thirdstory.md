@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-06T02:23:30.649Z'
+datePublished: '2016-07-06T02:23:45.476Z'
 isBasedOnUrl: 'https://soundcloud.com/wearethirdstory/sets/searching-ep'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-06T02:23:15.267Z'
+dateModified: '2016-07-06T02:23:45.142Z'
 title: ''
 app_links:
   - type: ios
@@ -49,8 +49,8 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 description: ''
-starred: false
 sourcePath: _posts/2016-07-06-searching-ep-by-thirdstory.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
