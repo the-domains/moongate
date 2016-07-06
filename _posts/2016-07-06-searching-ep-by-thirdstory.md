@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-07-06T02:23:45.476Z'
+datePublished: '2016-07-06T02:24:52.621Z'
 isBasedOnUrl: 'https://soundcloud.com/wearethirdstory/sets/searching-ep'
 keywords: []
 related: []
 author: []
-dateModified: '2016-07-06T02:23:45.142Z'
+dateModified: '2016-07-06T02:24:52.317Z'
 title: ''
 app_links:
   - type: ios
@@ -50,7 +50,7 @@ publisher:
   domain: soundcloud.com
 description: ''
 sourcePath: _posts/2016-07-06-searching-ep-by-thirdstory.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
