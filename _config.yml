@@ -1,19 +1,31 @@
-typography_spectrum: 0.5717195845209062
+layout_spectrum: 0.9446809
+author:
+  name: Daniel Atwood
+name: 'Moongate '
 content_rating:
   adult: false
+title: 'Bermudas guide to local independent music '
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.06595745
 color:
   brandStrength: 0.1991130809765309
-  lightness: 0.1455409312620759
-  saturation: 0.11087328661233187
-  rhythmicContrast: 0.03266106965020299
+  saturation: 0.1108732866123319
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.5600323311518878
-author:
-  name: Daniel Atwood
-name: 'Moongate '
-title: 'Bermudas guide to local independent music '
+  lightness: 0.1455409312620759
+  rhythmicContrast: 0.03266106965020299
